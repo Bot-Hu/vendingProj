@@ -1,0 +1,23 @@
+#include "stdio.h"
+#include <stdlib.h>			//包含该头文件
+#include "delay.h"
+#include "sys.h"
+
+#include "usart.h"
+#include "usart2.h"	
+#include "key.h"
+#include "led.h"
+#include "lcd.h"
+#include "touch.h"
+#include "ultrasonic.h"
+#include "motor.h"
+#include "button.h"
+#include "menu.h"
+#include "text.h"
+#include "sim900_sms.h"
+#include "pst.h"
+#include "rtc.h"
+#include "http.h"
+#include "sim900a_land.h"
+#include "string.h"
+
